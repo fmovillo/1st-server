@@ -1,4 +1,1 @@
-require 'sinatra'
-get '/' do
-  "Hello"
-end
+"Hello world"
